@@ -1,0 +1,46 @@
+
+
+
+WatchOS Folder
+01-loading
+02-notification
+03-end-trip
+04-rating
+
+iOS Folder
+01-login-openid
+02-request-a-car
+03-request-a-car
+04-tentative
+05-confirm
+06-passenger-starting-trip
+07-passenger-end-trip
+09-driver-starting-trip
+10-driver-end-trip
+
+Android Folder
+01-login-openid
+02-request-a-car
+03-request-a-car
+04-tentative
+05-confirm
+06-passenger-starting-trip
+07-passenger-end-trip
+09-driver-starting-trip
+10-driver-end-trip
+--
+
+Font: Raleway
+https://www.google.com/fonts/specimen/Raleway
+
+Awesome icon font
+http://fortawesome.github.io/Font-Awesome/ 
+
+Note: 100% shape and demo images not include.
+
+--
+Support:
+Email: tkmremi@gmail.com
+
+
+
